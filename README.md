@@ -9,4 +9,4 @@ Another important factor that influences learning is the language of instruction
 
 This repository is created as part of a learning exercise to explore how content publishing platforms can be used to share knowledge and build a strong digital presence through meaningful and structured content.
 For beginners, a structured learning path like a digital marketing course in Telugu
- can help in understanding SEO and online marketing concepts more effectively.https://odmt.in
+ can help in understanding SEO and online marketing concepts more effectively.
